@@ -32,6 +32,7 @@
 				<form:option value="2" label="CHN" />
 				<form:option value="3" label="US" />
 				<form:option value="4" label="russia" />
+				<form:option value="4" label="srilanka" />
 			</form:select></td>
 		</tr>
 		<tr>
