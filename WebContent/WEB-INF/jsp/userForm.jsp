@@ -13,7 +13,7 @@
 	<table>
 		<tr>
 			<td>STUDENT OF SATHYA NAME PLEASE :</td>
-			<td>YOU ARE AT RIGHT PLACE FOR DEVOPS DONT FORGET...</td>
+			<td>(you are at right place for devops..)</td>
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
