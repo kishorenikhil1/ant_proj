@@ -12,15 +12,15 @@
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
-			<td>Student of Sathya Name :</td>
+			<td>STUDENT OF SATHYA NAME PLEASE :</td>
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
-			<td>Student Password :</td>
+			<td>STUDENT PASSWORD :</td>
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
-			<td>Gender please:</td>
+			<td>GENDER PLEASE:</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
 				<form:radiobutton path="gender" value="F" label="F" /></td>
 		</tr>
@@ -32,8 +32,9 @@
 				<form:option value="2" label="CHN" />
 				<form:option value="3" label="US" />
 				<form:option value="4" label="russia" />
-				<form:option value="4" label="srilanka" />
-				<form:option value="4" label="ukrain" />
+				<form:option value="5" label="srilanka" />
+				<form:option value="6" label="ukrain" />
+				<form:option value="7" label="USA" />
 			</form:select></td>
 		</tr>
 		<tr>
@@ -57,7 +58,7 @@
 		</tr>
 	</table>
 
-<table width="30%" bgcolor="green" align="center" border=3>
+<table width="30%" bgcolor="yellow" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
