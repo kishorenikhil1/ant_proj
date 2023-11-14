@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration Page</title>
+<title>Registration Page for Student</title>
 </head>
 <body>
 
@@ -59,7 +59,7 @@
 		</tr>
 	</table>
 
-<table width="30%" bgcolor="red" align="center" border=3>
+<table width="30%" bgcolor="yellow" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
